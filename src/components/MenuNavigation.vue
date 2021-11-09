@@ -13,7 +13,7 @@
         transition="scale-transition"
         width="24"
       />
-    <v-toolbar-title class="pink--text darken-4--text">BentoBox - DS</v-toolbar-title>
+    <v-toolbar-title class="purple--text darken-6--text">BentoBox - DS</v-toolbar-title>
     </div>
 
     <v-spacer></v-spacer>

@@ -1,6 +1,6 @@
 <template>
   <v-container grid-list-lg>
-    <v-row no-gutters>
+    <v-row no-gutters center>
       <v-spacer />
       <v-col
         cols="2"
@@ -16,21 +16,6 @@
         </v-img>
         </v-card>
       </v-col>
-      <!-- <v-col
-        cols="3"
-        sm="3"
-        md="3"
-      >
-        <v-card
-          class="pa-1"
-        >
-        <v-layout justify-center align-center column pa-0>
-          <div class="display-2 font-weight-black black--text text-xs-center">Health</div>
-          <div class="display-2 font-weight-black black--text text-xs-center mb-3">Oracle</div>
-          <div class="display-2 font-weight-bold black--text text-xs-center">Protocol</div>
-        </v-layout>
-        </v-card>
-      </v-col> -->
       <v-spacer />
     </v-row>
   </v-container>
