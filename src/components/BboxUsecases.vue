@@ -26,7 +26,6 @@
                     </v-card-title>
                 </v-card>
             </v-flex>
-
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-img src="../assets/usecase-2.png" width="500px">

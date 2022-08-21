@@ -15,10 +15,10 @@
       />
     <v-toolbar-title class="purple--text darken-6--text">BentoBox - DS</v-toolbar-title>
     </div>
-
     <v-spacer></v-spacer>
-      <!-- <v-btn flat>SIGN IN</v-btn>
-      <v-btn color="brown lighten-3">JOIN</v-btn> -->
+      <v-btn text><a href="https://diyhslab.medium.com/">blog</a></v-btn>
+      <v-btn text><a href="https://github.com/healthscience/diyhstoolkit">code</a></v-btn>
+      <!-- <v-btn color="brown lighten-3">JOIN</v-btn> -->
   </v-app-bar>
 </template>
 
